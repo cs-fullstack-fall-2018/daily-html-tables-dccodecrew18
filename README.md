@@ -10,3 +10,15 @@
 
 4. You can make cells of a table span more than one column using the ```colspan``` attribute, but cells cannot span more than one row in the table (True or False?) *YOUR ANSWER->*true
 Have a great night 
+
+/*
+
+	#1 is TRUE. You use the <table> element to define a table
+	#4 is TRUE. you can use the 'rowspan' attribute to make a row span multiple rows.
+
+
+		You can use the ```rowspan``` attribute to make a row span multiple rows.
+
+		Remember, if any part of the text is wrong, the entire thing is False
+
+*/
